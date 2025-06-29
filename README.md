@@ -6,6 +6,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Miraj13123&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miraj13123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### Current:
+![GitHub followers](https://img.shields.io/github/followers/Miraj13123?label=Follow&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/Miraj13123?style=for-the-badge&logo=github&label=Stars)
+
 # 📈 Contribution Graph
 [![Miraj13123's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miraj13123&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
