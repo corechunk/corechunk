@@ -1,4 +1,4 @@
-# 💻 Tech Stack:
+# 💻 Programming Languages:
 <img src="https://skillicons.dev/icons?i=c,cpp,java,bash,py&perline=7" />
  
 # 📊 GitHub Stats:
@@ -6,7 +6,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Miraj13123&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miraj13123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🤝 Let's Connect!
+## 🤝 Account
 [![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/Mahmudul__Miraj)
 
 ---
