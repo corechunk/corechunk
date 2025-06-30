@@ -20,17 +20,10 @@
 # 📊 GitHub Stats:
 
 <p>
-  <img alt="Stats - TokyoNight" src="https://github-readme-stats.vercel.app/api?username=Miraj13123&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img alt="Miraj13123's GitHub Contributions" src="https://github-readme-stats.vercel.app/api?username=Miraj13123&show_icons=true&theme=tokyonight&hide=prs,issues&hide_border=true" height="150"/>
-</p>
-<p>
-  <img alt="Miraj13123's GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=Miraj13123&theme=tokyonight&hide_border=false" height="150"/>
-</p>
+  <img alt="Stats - TokyoNight" src="https://github-readme-stats.vercel.app/api?username=Miraj13123&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+  <img alt="Miraj13123's GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=Miraj13123&theme=tokyonight&hide_border=false" height="200"/>
 
-
-<!-- Fresh usage of GitHub Readme Stats API below -->
-<p>
-  <img alt="Miraj13123's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraj13123&theme=tokyonight&hide_border=false&langs_count=15&layout=donut" height="150"/>
+  <img alt="Miraj13123's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraj13123&theme=tokyonight&hide_border=false&langs_count=15&layout=donut" height="350"/>
   
 </p>
 
