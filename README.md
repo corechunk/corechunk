@@ -1,28 +1,37 @@
 # 💻 Programming Languages:
-<img src="https://skillicons.dev/icons?i=c,cpp,java,bash,py&perline=7" />
+<!-- Official icons only (no badge) for comparison -->
+<p>
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <!-- Bash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <!-- Batch Script -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Batch Script" width="40" height="40"/>
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <!-- CMake -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/>
+</p>
 
 # 📊 GitHub Stats:
 
-**Overall Stats**
 <p>
-  <img alt="Miraj13123's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Miraj13123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img alt="Stats - TokyoNight" src="https://github-readme-stats.vercel.app/api?username=Miraj13123&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img alt="Miraj13123's GitHub Contributions" src="https://github-readme-stats.vercel.app/api?username=Miraj13123&show_icons=true&theme=tokyonight&hide=prs,issues&hide_border=true" height="150"/>
 </p>
-
-**Streak Stats**
 <p>
   <img alt="Miraj13123's GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=Miraj13123&theme=tokyonight&hide_border=false" height="150"/>
 </p>
 
-**Top Languages**
-<p>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraj13123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
-</p>
 
 <!-- Fresh usage of GitHub Readme Stats API below -->
 <p>
-  <img alt="Miraj13123's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraj13123&theme=tokyonight&hide_border=false&langs_count=8&layout=donut" height="150"/>
-  <img alt="Miraj13123's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Miraj13123&theme=tokyonight&margin-w=10&no-frame=true" height="150"/>
-  <img alt="Miraj13123's GitHub Contributions" src="https://github-readme-stats.vercel.app/api?username=Miraj13123&show_icons=true&theme=tokyonight&hide=prs,issues&hide_border=true" height="150"/>
+  <img alt="Miraj13123's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraj13123&theme=tokyonight&hide_border=false&langs_count=15&layout=donut" height="150"/>
+  
 </p>
 
 ### Current:
@@ -30,7 +39,10 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Miraj13123?style=for-the-badge&logo=github&label=Stars)
 
 # 📈 Contribution Graph
-[![Miraj13123's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miraj13123&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p>
+  <!-- Xcode Theme -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Miraj13123&theme=xcode" alt="Activity Graph Xcode" height="200"/>
+</p>
 
 ## 🤝 Account
 [![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/Mahmudul__Miraj)
@@ -45,5 +57,28 @@
 <p>
   <!-- Repo Card Example -->
   <img alt="Miraj13123's Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=Miraj13123&repo=Miraj13123&theme=tokyonight&hide_border=false" height="150"/>
-  <!-- Gist Stats Example -->
+</p>
+
+<!-- Compare GitHub Readme Stats API widgets with different options side by side -->
+
+<!-- User Stats Cards -->
+<p>
+  
+</p>
+
+<!-- Top Languages Cards -->
+<p>
+
+</p>
+
+<!-- Software Icons -->
+<p>
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <!-- Code::Blocks -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Code::Blocks_logo.svg" alt="Code::Blocks" width="40" height="40"/>
+  <!-- Terminal -->
+  <img src="https://www.svgrepo.com/show/354331/terminal.svg" alt="Terminal" width="40" height="40"/>
+  <!-- Neovim -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/>
 </p>
