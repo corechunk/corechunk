@@ -1,3 +1,10 @@
+# Hi, I am Miraj
+##### I am a human with passion for programming .....
+
+<p align="center">
+  <img src="profile.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
+</p>
+
 # 💻 Programming Languages:
 <!-- Official icons only (no badge) for comparison -->
 <p>
