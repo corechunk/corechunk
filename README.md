@@ -13,8 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Batch Script" width="40" height="40"/>
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <!-- CMake -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/>
 </p>
 
 # 📊 GitHub Stats:
@@ -27,7 +25,6 @@
   <img alt="Miraj13123's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraj13123&theme=tokyonight&hide_border=false&langs_count=15&layout=donut" height="350"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Batch Script" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
@@ -73,14 +70,11 @@
 
 </p>
 
+## 💾 Softwares I use
 <!-- Software Icons -->
 <p>
-  <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <!-- Code::Blocks -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Code::Blocks_logo.svg" alt="Code::Blocks" width="40" height="40"/>
-  <!-- Terminal -->
-  <img src="https://www.svgrepo.com/show/354331/terminal.svg" alt="Terminal" width="40" height="40"/>
-  <!-- Neovim -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </p>
