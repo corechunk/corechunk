@@ -5,6 +5,42 @@
   <img src="profile.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
 </p>
 
+
+## ⌨ Project Index
+
+<table>
+  <tr>
+    <td valign="top">
+      <details open>
+        <summary>🛠️ Templates & Defaults</summary>
+
+- [cpp-default](https://github.com/Miraj13123/cpp-default) – C++ Project Template  
+- [CMaKe_Defaults](https://github.com/Miraj13123/CMaKe_Defaults) – CMake Learning Tool  
+- [java-default](https://github.com/Miraj13123/java-default) – Java Build System Template  
+    </td>
+    <td valign="top">
+      <details open>
+        <summary>💻 Data Structures & Algorithms</summary>
+
+- [cpp-advanced](https://github.com/Miraj13123/cpp-advanced) – Advanced C++ for DSA/designers  
+- [Queue-Circular-DSA](https://github.com/Miraj13123/Queue-Circular-DSA) – Circular Queue DSA  
+- [Queue-DSA](https://github.com/Miraj13123/Queue-DSA) – Queue DSA  
+- [Stack](https://github.com/Miraj13123/Stack) – Stack DSA  
+
+    </td>
+    <td valign="top">
+      <details open>
+        <summary>🧰 Tools & Utilities</summary>
+
+- [nvim](https://github.com/Miraj13123/nvim) – Neovim configuration  
+- [Python-Manager](https://github.com/Miraj13123/Python-Manager) – Python Manager for Windows OS  
+- [extras](https://github.com/Miraj13123/extras) – Extra things  
+- [cache](https://github.com/Miraj13123/cache) – Not Maintained / For Testing  
+    </td>
+  </tr>
+</table>
+
+
 # 💻 Programming Languages:
 <!-- Official icons only (no badge) for comparison -->
 <p>
@@ -86,37 +122,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </p>
 
-
-## ⌨ Project Index
-
-<table>
-  <tr>
-    <td valign="top">
-      <details>
-        <summary>🛠️ Templates & Defaults</summary>
-
-- [cpp-default](https://github.com/Miraj13123/cpp-default) – C++ Project Template  
-- [CMaKe_Defaults](https://github.com/Miraj13123/CMaKe_Defaults) – CMake Learning Tool  
-- [java-default](https://github.com/Miraj13123/java-default) – Java Build System Template  
-    </td>
-    <td valign="top">
-      <details>
-        <summary>💻 Data Structures & Algorithms</summary>
-
-- [cpp-advanced](https://github.com/Miraj13123/cpp-advanced) – Advanced C++ for DSA/designers  
-- [Queue-Circular-DSA](https://github.com/Miraj13123/Queue-Circular-DSA) – Circular Queue DSA  
-- [Queue-DSA](https://github.com/Miraj13123/Queue-DSA) – Queue DSA  
-- [Stack](https://github.com/Miraj13123/Stack) – Stack DSA  
-
-    </td>
-    <td valign="top">
-      <details>
-        <summary>🧰 Tools & Utilities</summary>
-
-- [nvim](https://github.com/Miraj13123/nvim) – Neovim configuration  
-- [Python-Manager](https://github.com/Miraj13123/Python-Manager) – Python Manager for Windows OS  
-- [extras](https://github.com/Miraj13123/extras) – Extra things  
-- [cache](https://github.com/Miraj13123/cache) – Not Maintained / For Testing  
-    </td>
-  </tr>
-</table>
