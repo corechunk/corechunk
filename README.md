@@ -12,33 +12,54 @@
   <tr>
     <td valign="top">
       <details open>
-        <summary>🛠️ Templates & Defaults</summary>
-
-- [cpp-default](https://github.com/Miraj13123/cpp-default) – C++ Project Template  
-- [CMaKe_Defaults](https://github.com/Miraj13123/CMaKe_Defaults) – CMake Learning Tool  
-- [java-default](https://github.com/Miraj13123/java-default) – Java Build System Template  
+        <summary><span style="font-size:1.2em"><b>🛠️ Templates & Defaults</b></span></summary>
+        <span style="font-size:smaller">
+        <a href="https://github.com/Miraj13123/cpp-default">cpp-default</a><br>
+        - C++ Project Template
+        <hr>
+        <a href="https://github.com/Miraj13123/CMaKe_Defaults">CMaKe_Defaults</a><br>
+        - CMake Learning Tool
+        <hr>
+        <a href="https://github.com/Miraj13123/java-default">java-default</a><br>
+        - Java Build System Template
+        </span>
+      </details>
     </td>
     <td valign="top">
       <details open>
-        <summary>💻 Data Structures & Algorithms</summary>
-
-- [cpp-advanced](https://github.com/Miraj13123/cpp-advanced) – Advanced C++ for DSA/designers  
-- [Queue-Circular-DSA](https://github.com/Miraj13123/Queue-Circular-DSA) – Circular Queue DSA  
-- [Queue-DSA](https://github.com/Miraj13123/Queue-DSA) – Queue DSA  
-- [Stack](https://github.com/Miraj13123/Stack) – Stack DSA  
-
+        <summary><span style="font-size:1.2em"><b>💻 Data Structures & Algorithms</b></span></summary>
+        <span style="font-size:smaller">
+        <a href="https://github.com/Miraj13123/cpp-advanced">cpp-advanced</a><br>
+        - Advanced C++ for DSA/designers
+        <hr>
+        <a href="https://github.com/Miraj13123/Queue-Circular-DSA">Queue-Circular-DSA</a><br>
+        - Circular Queue DSA
+        <hr>
+        <a href="https://github.com/Miraj13123/Queue-DSA">Queue-DSA</a><br>
+        - Queue DSA
+        <hr>
+        <a href="https://github.com/Miraj13123/Stack">Stack</a><br>
+        - Stack DSA
+        </span>
+      </details>
     </td>
     <td valign="top">
       <details open>
-        <summary>🧰 Tools & Utilities</summary>
-
-- [nvim](https://github.com/Miraj13123/nvim) – Neovim configuration  
-- [Python-Manager](https://github.com/Miraj13123/Python-Manager) – Python Library Manager
-- [extras](https://github.com/Miraj13123/extras) – Extra things  
+        <summary><span style="font-size:1.2em"><b>🧰 Tools & Utilities</b></span></summary>
+        <span style="font-size:smaller">
+        <a href="https://github.com/Miraj13123/nvim">nvim</a><br>
+        - Neovim configuration
+        <hr>
+        <a href="https://github.com/Miraj13123/Python-Manager">Python-Manager</a><br>
+        - Python Library Manager
+        <hr>
+        <a href="https://github.com/Miraj13123/extras">extras</a><br>
+        - Extra things
+        </span>
+      </details>
     </td>
   </tr>
 </table>
-
 
 # 💻 Programming Languages:
 <!-- Official icons only (no badge) for comparison -->
