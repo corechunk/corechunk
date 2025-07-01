@@ -33,9 +33,8 @@
         <summary>🧰 Tools & Utilities</summary>
 
 - [nvim](https://github.com/Miraj13123/nvim) – Neovim configuration  
-- [Python-Manager](https://github.com/Miraj13123/Python-Manager) – Python Manager for Windows OS  
+- [Python-Manager](https://github.com/Miraj13123/Python-Manager) – Python Library Manager
 - [extras](https://github.com/Miraj13123/extras) – Extra things  
-- [cache](https://github.com/Miraj13123/cache) – Not Maintained / For Testing  
     </td>
   </tr>
 </table>
