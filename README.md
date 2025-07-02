@@ -85,7 +85,7 @@
   <img alt="Miraj13123's GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=Miraj13123&theme=tokyonight&hide_border=false" height="150"/>
 </p>
 <p>
-  <img alt="Miraj13123's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraj13123&theme=tokyonight&hide_border=false&langs_count=15&layout=donut" height="350"/>
+  <img alt="Miraj13123's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraj13123&theme=nightowl&hide_border=false&langs_count=15&layout=donut" height="350"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
