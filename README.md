@@ -1,65 +1,32 @@
-# Hi, I am Miraj
+# 👋 Hi, I'm Miraj
+
 ##### I am a human with passion for programming .....
----
+I'm a passionate programmer who loves building tools, templates, and configurations to make coding smoother and more efficient. I enjoy exploring C++, Java, Python, and shell scripting, with a focus on creating reusable templates and optimizing developer workflows.
+
 <p align="center">
   <img src="profile.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
-</p> 
+</p>
 
+---
 
-## ⌨ Project Index
+## 🚀 My Projects
 
-<table>
-  <tr>
-    <td valign="top">
-      <details open>
-        <summary><span style="font-size:1.2em"><b>🛠️ Templates & Defaults</b></span></summary>
-        <span style="font-size:smaller">
-        <a href="https://github.com/Miraj13123/cpp-default">cpp-default</a><br>
-        - C++ Project Template
-        <hr>
-        <a href="https://github.com/Miraj13123/CMaKe_Defaults">CMaKe_Defaults</a><br>
-        - CMake Learning Tool
-        <hr>
-        <a href="https://github.com/Miraj13123/java-default">java-default</a><br>
-        - Java Build System Template
-        </span>
-      </details>
-    </td>
-    <td valign="top">
-      <details open>
-        <summary><span style="font-size:1.2em"><b>💻 Data Structures & Algorithms</b></span></summary>
-        <span style="font-size:smaller">
-        <a href="https://github.com/Miraj13123/cpp-advanced">cpp-advanced</a><br>
-        - Advanced C++ for DSA/designers
-        <hr>
-        <a href="https://github.com/Miraj13123/Queue-Circular-DSA">Queue-Circular-DSA</a><br>
-        - Circular Queue DSA
-        <hr>
-        <a href="https://github.com/Miraj13123/Queue-DSA">Queue-DSA</a><br>
-        - Queue DSA
-        <hr>
-        <a href="https://github.com/Miraj13123/Stack">Stack</a><br>
-        - Stack DSA
-        </span>
-      </details>
-    </td>
-    <td valign="top">
-      <details open>
-        <summary><span style="font-size:1.2em"><b>🧰 Tools & Utilities</b></span></summary>
-        <span style="font-size:smaller">
-        <a href="https://github.com/Miraj13123/nvim">nvim</a><br>
-        - Neovim configuration
-        <hr>
-        <a href="https://github.com/Miraj13123/Python-Manager">Python-Manager</a><br>
-        - Python Library Manager
-        <hr>
-        <a href="https://github.com/Miraj13123/extras">extras</a><br>
-        - Extra things
-        </span>
-      </details>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="./index.md"><img src="https://img.shields.io/badge/Project%20Index-Explore%20My%20Work-blue?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+## ℹ️ What I Do
+
+- **Templates & Defaults**: Crafting minimal and advanced project templates for C++ and Java to help developers kickstart their projects.
+- **Data Structures & Algorithms**: Building reusable DSA implementations in C++ and Java.
+- **Developer Tools**: Creating configurations for Neovim, Kitty, Tmux, and more to enhance CLI workflows.
+- **Open Source**: Sharing my work under Apache License 2.0 and MIT License to help the community.
+
+Explore my work in the [Project Index](./projects.md).
+
+---
 
 # 💻 Programming Languages:
 <!-- Official icons only (no badge) for comparison -->
@@ -141,4 +108,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </p>
-
