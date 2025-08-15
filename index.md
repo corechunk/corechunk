@@ -31,7 +31,7 @@ A compact list of my open-source projects, organized by category. Click the info
 - [extras](https://github.com/Miraj13123/extras) : Miscellaneous utilities.
 
 ## Web & Education
-- [Miraj13123.github.io](Miraj13123.github.io) : Personal website built with JavaScript.
+- [Miraj13123.github.io](https://Miraj13123.github.io/) : Personal website built with JavaScript.
 - [edu](https://github.com/Miraj13123/edu) : Educational programming content.
 
 ---
