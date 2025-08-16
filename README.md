@@ -113,21 +113,3 @@ Explore my work in the [Project Index](./projects.md).
 
 
 ![Last Commit](https://img.shields.io/github/last-commit/Miraj13123/Miraj13123?label=Last%20Commit&style=for-the-badge)
-
-
-
-## 📊 Code Stats
-![Total Lines](https://img.shields.io/badge/Total_Lines-0-blue?style=for-the-badge)
-![Total Files](https://img.shields.io/badge/Total_Files-0-blue?style=for-the-badge)
-![C++ Lines](https://img.shields.io/badge/C++_Lines-0-blue?style=for-the-badge)
-![Java Lines](https://img.shields.io/badge/Java_Lines-0-blue?style=for-the-badge)
-![Python Lines](https://img.shields.io/badge/Python_Lines-0-blue?style=for-the-badge)
-![Bash Lines](https://img.shields.io/badge/Bash_Lines-0-blue?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/Miraj13123/Miraj13123?label=Last%20Commit&style=for-the-badge)
-
-### Recent Commits
-- [2025-08-15] Initial commit (Miraj13123)
-- [2025-08-14] Update README (Miraj13123)
-- [2025-08-13] Fix config (dotfiles)
-- [2025-08-12] Add theme (dotfiles)
-- [2025-08-11] Optimize script (projectX)
