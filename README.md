@@ -12,7 +12,7 @@ I'm a passionate programmer who loves building tools, templates, and configurati
 ## 🚀 My Projects - Explore My Work
 
 <p align="center">
-  <a href="./index.md"><img src="https://img.shields.io/badge/Project%20Index-Explore%20My%20Work-blue?style=for-the-badge&logo=github" width="100%"></a>
+  <!--<a href="./index.md"><img src="https://img.shields.io/badge/Project%20Index-Explore%20My%20Work-blue?style=for-the-badge&logo=github" width="100%"></a>-->
   <a href="./index.md"><img src="https://img.shields.io/badge/Project%20Index-Click%20to%20Explore-blue?style=for-the-badge&logo=github" width="100%"></a>
 </p>
 
