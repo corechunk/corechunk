@@ -112,30 +112,4 @@ Explore my work in the [Project Index](./projects.md).
 
 
 
-![CodeStats Lines](https://codestats.net/api/users/Miraj13123/badge)
-
-<img alt="Miraj13123's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraj13123&theme=nightowl&hide_border=false&langs_count=15&layout=donut" height="350"/>
-
-## 📊 Code Stats
-
-![Total Lines](https://img.shields.io/badge/Total_Lines-123456-blue?style=for-the-badge)
-![Total Files](https://img.shields.io/badge/Total_Files-789-blue?style=for-the-badge)
-![C++ Lines](https://img.shields.io/badge/C++_Lines-12345-blue?style=for-the-badge)
-![Java Lines](https://img.shields.io/badge/Java_Lines-6789-blue?style=for-the-badge)
-![Python Lines](https://img.shields.io/badge/Python_Lines-4567-blue?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/Miraj13123/dotfiles?label=Last%20Commit&style=for-the-badge)
-
-### Recent Commits
-- [2025-08-15] Add new feature to dotfiles
-- [2025-08-14] Update README with badges
-- [2025-08-13] Fix Neovim config
-- [2025-08-12] Optimize Kitty theme
-- [2025-08-11] Initial commit for project
-
-https://img.shields.io/badge/Total_Lines-123456-blue?style=for-the-badge
-
-https://img.shields.io/badge/Total_Files-789-blue?style=for-the-badge
-
-https://img.shields.io/badge/C++_Lines-12345-blue?style=for-the-badge
-
-https://img.shields.io/badge/Java_Lines-6789-blue?style=for-the-badge
+![Last Commit](https://img.shields.io/github/last-commit/Miraj13123/Miraj13123?label=Last%20Commit&style=for-the-badge)
