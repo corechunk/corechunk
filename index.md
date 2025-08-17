@@ -21,7 +21,6 @@ A compact list of my open-source projects, organized by category. Click the info
     Starter config for Linux CLI tools. Includes Neovim, Docker, Oh My Posh, Tmux, Kitty, and Bash as separate repositories, accessible via dotfiles. (Apache 2.0)
   </details>
 - - [Neovim](https://github.com/Miraj13123/Neovim) : Neovim dotfiles, compatible with terminals/tmux/bash. (Lua)
-  - [Docker](https://github.com/Miraj13123/Docker) : Docker configs and automation scripts. (Apache 2.0)
   - [Oh My Posh](https://github.com/Miraj13123/omp) : Custom Oh My Posh dotfiles for shell prompts. (Apache 2.0)
   - [Tmux](https://github.com/Miraj13123/Tmux) : Tmux config for terminal multiplexing.
   - [Kitty](https://github.com/Miraj13123/Kitty) : Kitty dotfiles with remapped shortcuts. (Apache 2.0)
