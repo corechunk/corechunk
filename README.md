@@ -49,11 +49,11 @@ Explore my work in the [Project Index](./projects.md).
 # 📊 GitHub Stats:
 
 <p>
-  <img alt="Stats - TokyoNight" src="https://github-readme-stats.vercel.app/api?username=Miraj13123&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img alt="Miraj13123's GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=Miraj13123&theme=tokyonight&hide_border=false" height="150"/>
+  <img alt="Stats - TokyoNight" src="https://github-readme-stats.vercel.app/api?username=corechunk&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img alt="corechunk's GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=corechunk&theme=tokyonight&hide_border=false" height="150"/>
 </p>
 <p>
-  <img alt="Miraj13123's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraj13123&theme=nightowl&hide_border=false&langs_count=15&layout=donut" height="350"/>
+  <img alt="corechunk's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corechunk&theme=nightowl&hide_border=false&langs_count=15&layout=donut" height="350"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -65,13 +65,13 @@ Explore my work in the [Project Index](./projects.md).
 </p>
 
 ### Current:
-![GitHub followers](https://img.shields.io/github/followers/Miraj13123?label=Follow&style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/Miraj13123?style=for-the-badge&logo=github&label=Stars)
+![GitHub followers](https://img.shields.io/github/followers/corechunk?label=Follow&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/corechunk?style=for-the-badge&logo=github&label=Stars)
 
 # 📈 Contribution Graph
 <p>
   <!-- Xcode Theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Miraj13123&theme=xcode" alt="Activity Graph Xcode" height="200"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=corechunk&theme=xcode" alt="Activity Graph Xcode" height="200"/>
 </p>
 
 ## 🤝 Account
@@ -79,14 +79,14 @@ Explore my work in the [Project Index](./projects.md).
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Miraj13123&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=corechunk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- More GitHub Readme Stats API widgets below -->
 <p>
   <!-- Repo Card Example -->
-  <img alt="Miraj13123's Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=Miraj13123&repo=Miraj13123&theme=tokyonight&hide_border=false" height="150"/>
+  <img alt="corechunk's Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=corechunk&repo=corechunk&theme=tokyonight&hide_border=false" height="150"/>
 </p>
 
 <!-- Compare GitHub Readme Stats API widgets with different options side by side -->
@@ -112,4 +112,4 @@ Explore my work in the [Project Index](./projects.md).
 
 
 
-![Last Commit](https://img.shields.io/github/last-commit/Miraj13123/Miraj13123?label=Last%20Commit&style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/corechunk/corechunk?label=Last%20Commit&style=for-the-badge)
