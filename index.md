@@ -5,7 +5,7 @@ A compact list of my open-source projects, organized by category. Click the info
 ## Templates & Defaults
 - [cpp-default](https://github.com/corechunk/cpp-default) : Minimal C++ template with scripts for easy compilation. (Apache 2.0)
 - [cpp-advanced](https://github.com/corechunk/cpp-advanced) : Advanced C++ template for DSA/design projects. (Apache 2.0)
-- [CMaKe_Defaults](https://github.com/corechunk/CMaKe_Defaults) : CMake learning tool for project setup. (Apache 2.0)
+- [cmake_defaults](https://github.com/corechunk/cmake_defaults) : CMake learning tool for project setup. (Apache 2.0)
 - [RayLib_Template](https://github.com/corechunk/RayLib_Template) : C++ RayLib template based on cpp-advanced.
 - [java-default](https://github.com/corechunk/java-default) : Beginner-friendly Java template with build scripts. (Apache 2.0)
 - [wallpaper_installer_template](https://github.com/corechunk/wallpaper_installer_template) : A wallpaper installer to make your own collection
