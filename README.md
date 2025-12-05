@@ -22,10 +22,10 @@ I'm a passionate programmer who loves building tools, templates, and configurati
 
 - **Templates & Defaults**: Crafting minimal and advanced project templates for C++ and Java to help developers kickstart their projects.
 - **Data Structures & Algorithms**: Building reusable DSA implementations in C++ and Java.
-- **Developer Tools**: Creating configurations for Neovim, Kitty, Tmux, and more to enhance CLI workflows.
+- **Developer Tools**: Creating configurations for Neovim, Kitty, Tmux, and more to enhance CLI workflows. I also build and maintain a collection of `linutils`.
 - **Open Source**: Sharing my work under Apache License 2.0 and MIT License to help the community.
 
-Explore my work in the [Project Index](./projects.md).
+Explore my work in the [Project Index](./index.md).
 
 ---
 

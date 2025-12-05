@@ -6,9 +6,10 @@ A compact list of my open-source projects, organized by category. Click the info
 - [cpp-default](https://github.com/corechunk/cpp-default) : Minimal C++ template with scripts for easy compilation. (Apache 2.0)
 - [cpp-advanced](https://github.com/corechunk/cpp-advanced) : Advanced C++ template for DSA/design projects. (Apache 2.0)
 - [cmake_default](https://github.com/corechunk/cmake_default) : CMake learning tool for project setup. (Apache 2.0)
+- cmake_default_c
+- cmake_default_cpp
 - [RayLib_Template](https://github.com/corechunk/RayLib_Template) : C++ RayLib template based on cpp-advanced.
 - [java-default](https://github.com/corechunk/java-default) : Beginner-friendly Java template with build scripts. (Apache 2.0)
-- [wallpaper_installer_template](https://github.com/corechunk/wallpaper_installer_template) : A wallpaper installer to make your own collection
 
 ## Data Structures & Algorithms
 - [Queue-Circular-DSA](https://github.com/corechunk/Queue-Circular-DSA) : Circular queue implementation in Java. (Apache 2.0)
@@ -16,16 +17,21 @@ A compact list of my open-source projects, organized by category. Click the info
 - [Stack](https://github.com/corechunk/Stack) : Stack implementation in Java.
 
 ## Tools & Utilities
-- [dotfiles](https://github.com/corechunk/dotfiles)
-  - [Oh My Posh](https://github.com/corechunk/omp) : Custom Oh My Posh dotfiles for shell prompts. (Apache 2.0)
-  - [Tmux](https://github.com/corechunk/Tmux) : Tmux config for terminal multiplexing.
-  - [Neovim](https://github.com/corechunk/Neovim) : Neovim dotfiles, compatible with terminals/tmux/bash. (Lua)
-  - [Kitty](https://github.com/corechunk/Kitty) : Kitty dotfiles with remapped shortcuts. (Apache 2.0)
-  - [Bash](https://github.com/corechunk/Bash) : Custom Bash dotfiles for shell experience. (Apache 2.0)
-  - ---
-  - [wallpaper_jakoolit](https://github.com/corechunk/wallpaper_jakoolit) : installs Jakoolit's wallpapers in ur pc
-  - [wallpaper_minecraft](https://github.com/corechunk/wallpaper_minecraft) : installs Official Minecraft wallpapers in ur pc
-  - [wallpaper_anime](https://github.com/corechunk/wallpaper_anime) : installs anime wallpapers in ur pc
+- [linutils](https://github.com/corechunk/linutils)
+  - [core-chooser](https://github.com/corechunk/core-chooser) : [repo]
+  - [dotfiles](https://github.com/corechunk/dotfiles) : [repo]
+    - [hyprland](https://github.com/corechunk/hyprland) : [repo]
+    - [Oh My Posh](https://github.com/corechunk/omp) : [repo] Custom Oh My Posh dotfiles for shell prompts. (Apache 2.0)
+    - [Tmux](https://github.com/corechunk/Tmux) : [repo] Tmux config for terminal multiplexing.
+    - [Neovim](https://github.com/corechunk/Neovim) : [repo] Neovim dotfiles, compatible with terminals/tmux/bash. (Lua)
+    - [Kitty](https://github.com/corechunk/Kitty) : [repo] Kitty dotfiles with remapped shortcuts. (Apache 2.0)
+    - [Bash](https://github.com/corechunk/Bash) : [repo] Custom Bash dotfiles for shell experience. (Apache 2.0)
+    - ---
+    - <!-- Reminder: Transfer wallpapers to another account -->
+    - [wallpaper_os](https://github.com/corechunk/wallpaper_os) : [repo]
+    - [wallpaper_jakoolit](https://github.com/corechunk/wallpaper_jakoolit) : [repo] installs Jakoolit's wallpapers in ur pc
+    - [wallpaper_minecraft](https://github.com/corechunk/wallpaper_minecraft) : [repo] installs Official Minecraft wallpapers in ur pc
+    - [wallpaper_anime](https://github.com/corechunk/wallpaper_anime) : [repo] installs anime wallpapers in ur pc
 - [Python-Manager](https://github.com/corechunk/Python-Manager) : Tool to manage Python and packages across OSes. (MIT)
 - [temp_host](https://github.com/corechunk/temp_host) : Shell scripts for temporary hosting. (Apache 2.0)
 - [extras](https://github.com/corechunk/extras) : Miscellaneous utilities.
