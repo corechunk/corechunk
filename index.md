@@ -6,31 +6,54 @@ A compact list of my open-source projects, organized by category. Click the info
 - [cpp-default](https://github.com/corechunk/cpp-default) : Minimal C++ template with scripts for easy compilation. (Apache 2.0)
 - [cpp-advanced](https://github.com/corechunk/cpp-advanced) : Advanced C++ template for DSA/design projects. (Apache 2.0)
 - [cmake_default_cpp](https://github.com/corechunk/cmake_default_cpp) : CMake learning tool for project setup. (Apache 2.0)
-- cmake_default_c
+- [cmake_default_c](https://github.com/corechunk/cmake_default_c) : a simple cmake template for c project
+- [kotlin-gradle-default](https://github.com/corechunk/kotlin-gradle-default) : kotlin × gradle starter template
 - [RayLib_Template](https://github.com/corechunk/RayLib_Template) : C++ RayLib template based on cpp-advanced.
 - [java-default](https://github.com/corechunk/java-default) : Beginner-friendly Java template with build scripts. (Apache 2.0)
 
 ## Data Structures & Algorithms
-- [Queue-Circular-DSA](https://github.com/corechunk/Queue-Circular-DSA) : Circular queue implementation in Java. (Apache 2.0)
+### Java
+- [QueueCircular-DSA](https://github.com/corechunk/QueueCircular-DSA) : Circular queue implementation in Java. (Apache 2.0)
 - [Queue-DSA](https://github.com/corechunk/Queue-DSA) : Standard queue implementation in Java. (Apache 2.0)
 - [Stack](https://github.com/corechunk/Stack) : Stack implementation in Java.
+
+### Kotlin
+- [kotlin-linkedList-v1-dsa](https://github.com/corechunk/kotlin-linkedList-v1-dsa) : solving 'Linked List (singlly linked)' data structure in kotlin
+- [kotlin-circularQueue-dsa](https://github.com/corechunk/kotlin-circularQueue-dsa) : solving 'CircularQueue' data structure in kotlin
+- [kotlin-queue-dsa](https://github.com/corechunk/kotlin-queue-dsa) : solving 'queue' data structure in kotlin
+- [kotlin-stack-dsa](https://github.com/corechunk/kotlin-stack-dsa) : solving stack data structure in kotlin
+
+### C++
+- [queue-cpp](https://github.com/corechunk/queue-cpp) : dsa solving series
+- [tictactoe-cli-cpp](https://github.com/corechunk/tictactoe-cli-cpp) : simple tic-tac-toe game in CLI
 
 ## Tools & Utilities
 - [linutils](https://github.com/corechunk/linutils)
   - [core-chooser](https://github.com/corechunk/core-chooser) : [repo]
   - [dotfiles](https://github.com/corechunk/dotfiles) : [repo]
     - [hyprland](https://github.com/corechunk/hyprland) : [repo]
+    - [waybar](https://github.com/corechunk/waybar) : [repo] My waybar dotfiles
     - [Oh My Posh](https://github.com/corechunk/omp) : [repo] Custom Oh My Posh dotfiles for shell prompts. (Apache 2.0)
     - [Tmux](https://github.com/corechunk/Tmux) : [repo] Tmux config for terminal multiplexing.
     - [Neovim](https://github.com/corechunk/Neovim) : [repo] Neovim dotfiles, compatible with terminals/tmux/bash. (Lua)
     - [Kitty](https://github.com/corechunk/Kitty) : [repo] Kitty dotfiles with remapped shortcuts. (Apache 2.0)
     - [Bash](https://github.com/corechunk/Bash) : [repo] Custom Bash dotfiles for shell experience. (Apache 2.0)
+    - [fastfetch](https://github.com/corechunk/fastfetch) : [repo] My fastfetch dot files
+    - [NixOS](https://github.com/corechunk/NixOS) : [repo] My NixOS configuration
     - ---
     - <!-- Reminder: Transfer wallpapers to another account -->
     - [wallpaper_os](https://github.com/corechunk/wallpaper_os) : [repo]
-    - [wallpaper_jakoolit](https://github.com/corechunk/wallpaper_jakoolit) : [repo] installs Jakoolit's wallpapers in ur pc
-    - [wallpaper_minecraft](https://github.com/corechunk/wallpaper_minecraft) : [repo] installs Official Minecraft wallpapers in ur pc
-    - [wallpaper_anime](https://github.com/corechunk/wallpaper_anime) : [repo] installs anime wallpapers in ur pc
+    - [wallpaper_jakoolit](https://github.com/corechunk/wallpaper_jakoolit) : [repo]
+    - [wallpaper_minecraft](https://github.com/corechunk/wallpaper_minecraft) : [repo]
+    - [wallpaper_anime](https://github.com/corechunk/wallpaper_anime) : [repo]
+    - [Wallpaper_hub](https://github.com/corechunk/Wallpaper_hub) : [repo]
+    - [wallpaper_installer_templates](https://github.com/corechunk/wallpaper_installer_templates) : [repo]
+
+- [winutils](https://github.com/corechunk/winutils) : Windows Utility app made with WPF
+- [prep-pwsh](https://github.com/corechunk/prep-pwsh) : trying to dive in powershell
+- [script.io](https://github.com/corechunk/script.io) : an online script which is runable via curl
+- [rpi_server](https://github.com/corechunk/rpi_server) : setup root partition for first run
+- [docker-images](https://github.com/corechunk/docker-images) : my default images for testing linux
 - [Python-Manager](https://github.com/corechunk/Python-Manager) : Tool to manage Python and packages across OSes. (MIT)
 - [temp_host](https://github.com/corechunk/temp_host) : Shell scripts for temporary hosting. (Apache 2.0)
 - [extras](https://github.com/corechunk/extras) : Miscellaneous utilities.
