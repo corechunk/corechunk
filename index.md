@@ -31,12 +31,14 @@ A compact list of my open-source projects, organized by category. Click the info
 - [linutils](https://github.com/corechunk/linutils)
   - [core-chooser](https://github.com/corechunk/core-chooser) : [repo]
   - [dotfiles](https://github.com/corechunk/dotfiles) : [repo]
-    - [hyprland](https://github.com/corechunk/hyprland) : [repo]
-    - [waybar](https://github.com/corechunk/waybar) : [repo] My waybar dotfiles
+    - [hyprland](https://github.com/corechunk/hyprland) : [repo] my hyprland dotfiles [ unofficial distribution ]
+    - [waybar](https://github.com/corechunk/waybar) : [repo] My waybar dotfiles - [ waybar x quickshell ] + (cava,rofi,swaync+more)
+    - [quickshell](https://github.com/corechunk/quickshell) : [repo] my quickshell dotfiles/modules/qmls :) - :(
+    - [wallust](https://github.com/corechunk/wallust) : [repo] my wallust dotfiles
     - [Oh My Posh](https://github.com/corechunk/omp) : [repo] Custom Oh My Posh dotfiles for shell prompts. (Apache 2.0)
     - [Tmux](https://github.com/corechunk/Tmux) : [repo] Tmux config for terminal multiplexing.
     - [Neovim](https://github.com/corechunk/Neovim) : [repo] Neovim dotfiles, compatible with terminals/tmux/bash. (Lua)
-    - [Kitty](https://github.com/corechunk/Kitty) : [repo] Kitty dotfiles with remapped shortcuts. (Apache 2.0)
+    - [Kitty](https://github.com/corechunk/Kitty) : [repo] My Kitty dotfiles. blocked all default shortcuts and manually remapped them according to my needs. (Apache 2.0)
     - [Bash](https://github.com/corechunk/Bash) : [repo] Custom Bash dotfiles for shell experience. (Apache 2.0)
     - [fastfetch](https://github.com/corechunk/fastfetch) : [repo] My fastfetch dot files
     - [NixOS](https://github.com/corechunk/NixOS) : [repo] My NixOS configuration
@@ -74,6 +76,7 @@ A compact list of my open-source projects, organized by category. Click the info
 
 
 ## Education
+- [CoreDocs](https://github.com/corechunk/CoreDocs) : Public Developer Scripting & Programming Languages Library
 - [edu](https://github.com/corechunk/edu)
   - **Circuits**
     - [Deeper into Circuits: Syllabus [ Under Construction ]](https://github.com/corechunk/edu/blob/main/circuits/start.md)
@@ -96,3 +99,4 @@ A compact list of my open-source projects, organized by category. Click the info
 ---
 [![Back to README](https://img.shields.io/badge/Back_to_README-181717?style=flat-square&logo=github)](./README.md)
 [![Connect on X](https://img.shields.io/badge/Connect_on_X-1DA1F2?style=flat-square&logo=x)](https://x.com/Mahmudul__Miraj)
+(https://x.com/Mahmudul__Miraj)
