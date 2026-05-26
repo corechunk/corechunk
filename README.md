@@ -4,7 +4,8 @@
 I'm a passionate programmer who loves building tools, templates, and configurations to make coding smoother and more efficient. I enjoy exploring C++, Java, Python, and shell scripting, with a focus on creating reusable templates and optimizing developer workflows.
 
 <p align="center">
-  <img src="profile.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
+  <!--<img src="profile.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>-->
+  <img src="profile-jp.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
 </p>
 
 ---
