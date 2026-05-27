@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Miraj
 
 ##### I am a human with passion for programming .....
-I'm a passionate programmer who loves building tools, templates, and configurations to make coding smoother and more efficient. I enjoy exploring C++, Java, Python, and shell scripting, with a focus on creating reusable templates and optimizing developer workflows.
+I'm a passionate programmer who loves building tools, templates, and configurations to make coding smoother and more efficient. I enjoy exploring C, C++, Kotlin, Lua, and Python, with a focus on creating reusable templates and optimizing developer workflows.
 
 <p align="center">
   <!--<img src="profile.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>-->
@@ -21,8 +21,8 @@ I'm a passionate programmer who loves building tools, templates, and configurati
 
 ## ℹ️ What I Do
 
-- **Templates & Defaults**: Crafting minimal and advanced project templates for C++ and Java to help developers kickstart their projects.
-- **Data Structures & Algorithms**: Building reusable DSA implementations in C++ and Java.
+- **Templates & Defaults**: Crafting minimal and advanced project templates for C, C++, and Kotlin to help developers kickstart their projects.
+- **Data Structures & Algorithms**: Building reusable DSA implementations in C, C++, and Kotlin.
 - **Developer Tools**: Creating configurations for Neovim, Kitty, Tmux, and more to enhance CLI workflows. I also build and maintain a collection of `linutils`.
 - **Open Source**: Sharing my work under Apache License 2.0 and MIT License to help the community.
 
@@ -37,12 +37,16 @@ Explore my work in the [Project Index](./index.md).
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <!-- Kotlin -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   <!-- Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <!-- PowerShell -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
   <!-- Batch Script -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Batch Script" width="40" height="40"/>
+  <!-- Lua -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
@@ -55,14 +59,6 @@ Explore my work in the [Project Index](./index.md).
 </p>
 <p>
   <img alt="corechunk's Most Used Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=corechunk&theme=nightowl&hide_border=false&langs_count=15&layout=donut" height="350"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Batch Script" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
 ### Current:
@@ -102,13 +98,16 @@ Explore my work in the [Project Index](./index.md).
 
 </p>
 
-## 💾 Softwares I use
+## 💾 Tools & Build Systems
 <!-- Software Icons -->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tmux/tmux-plain.svg" alt="tmux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/kovidgoyal/kitty@master/logo/kitty.svg" alt="kitty" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" alt="Gradle" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" alt="Make" width="40" height="40"/>
 </p>
 
 
