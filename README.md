@@ -50,11 +50,11 @@ Explore my work in the [Project Index](./index.md).
 # 📊 GitHub Stats:
 
 <p>
-  <img alt="Stats - TokyoNight" src="https://github-readme-stats.vercel.app/api?username=corechunk&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img alt="corechunk's GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=corechunk&theme=tokyonight&hide_border=false" height="150"/>
+  <img alt="Stats - TokyoNight" src="https://github-readme-stats.shion.dev/api?username=corechunk&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img alt="corechunk's GitHub Streak" src="https://streak-stats.demolab.com/?user=corechunk&theme=tokyonight&hide_border=false" height="150"/>
 </p>
 <p>
-  <img alt="corechunk's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corechunk&theme=nightowl&hide_border=false&langs_count=15&layout=donut" height="350"/>
+  <img alt="corechunk's Most Used Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=corechunk&theme=nightowl&hide_border=false&langs_count=15&layout=donut" height="350"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
