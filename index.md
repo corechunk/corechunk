@@ -3,6 +3,7 @@
 A compact list of my open-source projects, organized by category. Click the info toggle for projects with detailed notes.
 
 ## Templates & Defaults
+- [dotfile](https://github.com/corechunk/dotfile) : my template for my dotfile repositories to make them usable by a central dotfiles-hub(repo)
 - [cpp-default](https://github.com/corechunk/cpp-default) : Minimal C++ template with scripts for easy compilation. (Apache 2.0)
 - [cpp-advanced](https://github.com/corechunk/cpp-advanced) : Advanced C++ template for DSA/design projects. (Apache 2.0)
 - [cmake_default_cpp](https://github.com/corechunk/cmake_default_cpp) : CMake learning tool for project setup for c++. (Apache 2.0)
@@ -18,6 +19,7 @@ A compact list of my open-source projects, organized by category. Click the info
 - [Stack](https://github.com/corechunk/Stack) : Stack implementation in Java.
 
 ### Kotlin
+- [kotlin-doublyLinkedList-dsa](https://github.com/corechunk/kotlin-doublyLinkedList-dsa) : solving 'Linked List (doubly linked)' data structure in kotlin
 - [kotlin-linkedList-v1-dsa](https://github.com/corechunk/kotlin-linkedList-v1-dsa) : solving 'Linked List (singlly linked)' data structure in kotlin
 - [kotlin-circularQueue-dsa](https://github.com/corechunk/kotlin-circularQueue-dsa) : solving 'CircularQueue' data structure in kotlin
 - [kotlin-queue-dsa](https://github.com/corechunk/kotlin-queue-dsa) : solving 'queue' data structure in kotlin
@@ -41,7 +43,7 @@ A compact list of my open-source projects, organized by category. Click the info
     - [Kitty](https://github.com/corechunk/Kitty) : [repo] My Kitty dotfiles. blocked all default shortcuts and manually remapped them according to my needs. (Apache 2.0)
     - [Bash](https://github.com/corechunk/Bash) : [repo] Custom Bash dotfiles for shell experience. (Apache 2.0)
     - [fastfetch](https://github.com/corechunk/fastfetch) : [repo] My fastfetch dot files
-    - [NixOS](https://github.com/corechunk/NixOS) : [repo] My NixOS configuration
+    - [NixOS](https://github.com/corechunk/NixOS) : [repo] My NixOS configuration including home.nix (in future)
     - ---
     - <!-- Reminder: Transfer wallpapers to another account -->
     - [wallpaper_os](https://github.com/corechunk/wallpaper_os) : [repo]
@@ -50,6 +52,7 @@ A compact list of my open-source projects, organized by category. Click the info
     - [wallpaper_anime](https://github.com/corechunk/wallpaper_anime) : [repo]
     - [Wallpaper_hub](https://github.com/corechunk/Wallpaper_hub) : [repo]
     - [wallpaper_installer_templates](https://github.com/corechunk/wallpaper_installer_templates) : [repo]
+    - [wallpaper_installer_template](https://github.com/corechunk/wallpaper_installer_template) : [repo]
 
 - [winutils](https://github.com/corechunk/winutils) : Windows Utility app made with WPF
 - [prep-pwsh](https://github.com/corechunk/prep-pwsh) : trying to dive in powershell
