@@ -4,6 +4,7 @@ A compact list of my open-source projects, organized by category. Click the info
 
 ## Templates & Defaults
 - [dotfile](https://github.com/corechunk/dotfile) : my template for my dotfile repositories to make them usable by a central dotfiles-hub(repo)
+- [dotfile-themes-plus](https://github.com/corechunk/dotfile-themes-plus) : template repo for my dotfile's extra themes shipment repos
 - [cpp-default](https://github.com/corechunk/cpp-default) : Minimal C++ template with scripts for easy compilation. (Apache 2.0)
 - [cpp-advanced](https://github.com/corechunk/cpp-advanced) : Advanced C++ template for DSA/design projects. (Apache 2.0)
 - [cmake_default_cpp](https://github.com/corechunk/cmake_default_cpp) : CMake learning tool for project setup for c++. (Apache 2.0)
@@ -30,6 +31,7 @@ A compact list of my open-source projects, organized by category. Click the info
 - [tictactoe-cli-cpp](https://github.com/corechunk/tictactoe-cli-cpp) : simple tic-tac-toe game in CLI
 
 ## Tools & Utilities
+- [bash-lib](https://github.com/corechunk/bash-lib) : bash-lib: A lightweight, dependency-free Bash library for modular scripting. Features include a dynamic function registry, automated file tracking, in-memory remote sourcing (glob sourcing directly via GitHub API & raw CDN urls without disk footprint), interactive diagnostic dashboards, and a built-in interactive bash tutor/manual.
 - [linutils](https://github.com/corechunk/linutils)
   - [core-chooser](https://github.com/corechunk/core-chooser) : [repo]
   - [dotfiles](https://github.com/corechunk/dotfiles) : [repo]
@@ -43,6 +45,9 @@ A compact list of my open-source projects, organized by category. Click the info
     - [Kitty](https://github.com/corechunk/Kitty) : [repo] My Kitty dotfiles. blocked all default shortcuts and manually remapped them according to my needs. (Apache 2.0)
     - [Bash](https://github.com/corechunk/Bash) : [repo] Custom Bash dotfiles for shell experience. (Apache 2.0)
     - [fastfetch](https://github.com/corechunk/fastfetch) : [repo] My fastfetch dot files
+    - [sddm](https://github.com/corechunk/sddm) : [repo] my sddm dotfiles
+    - [cava](https://github.com/corechunk/cava) : [repo] my cava dotfiles
+    - [sddm-themes-plus](https://github.com/corechunk/sddm-themes-plus) : [repo] extra sddm themes deploy
     - [NixOS](https://github.com/corechunk/NixOS) : [repo] My NixOS configuration including home.nix (in future)
     - ---
     - <!-- Reminder: Transfer wallpapers to another account -->
