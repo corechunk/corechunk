@@ -113,3 +113,9 @@ Explore my work in the [Project Index](./index.md).
 
 
 ![Last Commit](https://img.shields.io/github/last-commit/corechunk/corechunk?label=Last%20Commit&style=for-the-badge)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/corechunk/corechunk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/corechunk/output/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake yml" src="https://raw.githubusercontent.com/corechunk/output/output/github-contribution-grid-snake.svg">
+</picture>
