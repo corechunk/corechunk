@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Miraj
 
 ##### I am a human with passion for programming .....
