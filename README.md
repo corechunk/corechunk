@@ -25,10 +25,16 @@ I'm a passionate programmer who loves building tools, templates, and configurati
 
 ## ℹ️ What I Do
 
-- **Templates & Defaults**: Crafting minimal and advanced project templates for C, C++, and Kotlin to help developers kickstart their projects.
-- **Data Structures & Algorithms**: Building reusable DSA implementations in C, C++, and Kotlin.
-- **Developer Tools**: Creating configurations for Neovim, Kitty, Tmux, and more to enhance CLI workflows. I also build and maintain a collection of `linutils`.
-- **Open Source**: Sharing my work under Apache License 2.0 and MIT License to help the community.
+- **Templates & Build Systems**: Structuring optimized boilerplate configurations for C/C++, CMake, and Gradle environments.
+- **Data Structures & Algorithms**: Implementing foundational data structures and algorithm libraries.
+- **Developer Tooling & Configs**: Designing CLI workflows, Neovim configs, and Linux desktop environments.
+- **Open Source**: Sharing my work and templates openly, publishing most of my code under the MIT or Apache 2.0 licenses.
+
+## 🧠 What I'm Passionate About & Learning
+
+- **Low-Level & Systems**: Deep diving into systems-level programming and backend architectures using compiled languages (C, C++, and Kotlin).
+- **GUI Apps with SDL3**: Building performant, native desktop applications like custom text editors and terminal tools.
+- **Language Design**: Exploring compiler theory, interpreters, and the mechanics of programming language design.
 
 Explore my work in the [Project Index](./index.md).
 
