@@ -9,6 +9,7 @@ A compact list of my open-source projects, organized by category. Click the info
 - [cpp-advanced](https://github.com/corechunk/cpp-advanced) : Advanced C++ template for DSA/design projects. (Apache 2.0)
 - [cmake_default_cpp](https://github.com/corechunk/cmake_default_cpp) : CMake learning tool for project setup for c++. (Apache 2.0)
 - [cmake_default_c](https://github.com/corechunk/cmake_default_c) : CMake learning tool for project setup for c.
+- [cmake-clang-cross-c](https://github.com/corechunk/cmake-clang-cross-c) : CMake template for Clang cross-compiler (C).
 - [kotlin-gradle-default](https://github.com/corechunk/kotlin-gradle-default) : kotlin × gradle starter template
 - [RayLib_Template](https://github.com/corechunk/RayLib_Template) : C++ RayLib template based on cpp-advanced.
 - [java-default](https://github.com/corechunk/java-default) : Beginner-friendly Java template with build scripts. (Apache 2.0)
@@ -32,9 +33,10 @@ A compact list of my open-source projects, organized by category. Click the info
 
 ## Tools & Utilities
 - [bash-lib](https://github.com/corechunk/bash-lib) : bash-lib: A lightweight, dependency-free Bash library for modular scripting. Features include a dynamic function registry, automated file tracking, in-memory remote sourcing (glob sourcing directly via GitHub API & raw CDN urls without disk footprint), interactive diagnostic dashboards, and a built-in interactive bash tutor/manual.
+- [posix-lib](https://github.com/corechunk/posix-lib) : POSIX-shell port of bash-lib — same modular scripting concept, strictly POSIX-compliant.
 - [linutils](https://github.com/corechunk/linutils)
   - [core-chooser](https://github.com/corechunk/core-chooser) : [repo]
-  - [dotfiles](https://github.com/corechunk/dotfiles) : [repo]
+  - [shard](https://github.com/corechunk/shard) : [repo]
     - [hyprland](https://github.com/corechunk/hyprland) : [repo] my hyprland dotfiles [ unofficial distribution ]
     - [waybar](https://github.com/corechunk/waybar) : [repo] My waybar dotfiles - [ waybar x quickshell ] + (cava,rofi,swaync+more)
     - [quickshell](https://github.com/corechunk/quickshell) : [repo] my quickshell dotfiles/modules/qmls :) - :(
@@ -54,8 +56,8 @@ A compact list of my open-source projects, organized by category. Click the info
     - [wallpaper_os](https://github.com/corechunk/wallpaper_os) : [repo]
     - [wallpaper_jakoolit](https://github.com/corechunk/wallpaper_jakoolit) : [repo]
     - [wallpaper_minecraft](https://github.com/corechunk/wallpaper_minecraft) : [repo]
-    - [wallpaper_anime](https://github.com/corechunk/wallpaper_anime) : [repo]
-    - [Wallpaper_hub](https://github.com/corechunk/Wallpaper_hub) : [repo]
+    - [wallpaper_anime](https://github.com/corechunk/wallpaper_anime) : [repo] [private?]
+    - [Wallpaper_hub](https://github.com/corechunk/Wallpaper_hub) : [repo] [private?]
     - [wallpaper_installer_templates](https://github.com/corechunk/wallpaper_installer_templates) : [repo]
     - [wallpaper_installer_template](https://github.com/corechunk/wallpaper_installer_template) : [repo]
 
@@ -66,6 +68,7 @@ A compact list of my open-source projects, organized by category. Click the info
 - [docker-images](https://github.com/corechunk/docker-images) : my default images for testing linux
 - [Python-Manager](https://github.com/corechunk/Python-Manager) : Tool to manage Python and packages across OSes. (MIT)
 - [temp_host](https://github.com/corechunk/temp_host) : Shell scripts for temporary hosting. (Apache 2.0)
+- [cplay](https://github.com/corechunk/cplay) : terminal music player.
 - [extras](https://github.com/corechunk/extras) : Miscellaneous utilities.
 
 ## Extras
@@ -85,6 +88,7 @@ A compact list of my open-source projects, organized by category. Click the info
 
 ## Education
 - [CoreDocs](https://github.com/corechunk/CoreDocs) : Public Developer Scripting & Programming Languages Library
+- [CoreWiki](https://github.com/corechunk/CoreWiki) : vibecoded knowledge wiki — community-style docs and notes.
 - [edu](https://github.com/corechunk/edu)
   - **Circuits**
     - [Deeper into Circuits: Syllabus [ Under Construction ]](https://github.com/corechunk/edu/blob/main/circuits/start.md)
@@ -101,6 +105,9 @@ A compact list of my open-source projects, organized by category. Click the info
       - [Bash]
       - [Batch]
       - [PowerShell]
+## Game Utilities
+- [minecraft-vanilla-commands](https://github.com/corechunk/minecraft-vanilla-commands) : Command generation scratchpad for Minecraft command blocks — vanilla only, no mods.
+
 ## Web
 - [corechunk.github.io](https://corechunk.github.io/) : Personal website built with JavaScript.
 
